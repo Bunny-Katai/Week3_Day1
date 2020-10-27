@@ -1,0 +1,60 @@
+#nav {
+    text-align: right;
+    background-color:goldenrod;
+    padding: 15px;
+    width: 100%;
+    position: fixed; 
+    
+    
+}
+span{
+    float:left;
+}
+#nav a {
+    text-decoration: none;
+    color: white;
+    padding:15px;
+    margin-right: 10px;
+    
+}  
+#content{
+    text-align: center;
+    
+    
+   
+}
+#boxsContainer{
+  display: inline-block;
+   
+
+}
+#box{
+    background-color:white;
+    padding: 10px;
+    width: 200px;
+    height: 440px;
+    border: 2px solid goldenrod;
+    margin-top: 100px;
+    margin-right: 10px;
+    float: left;
+   
+
+    
+}
+#button {
+    
+    background-color: goldenrod;
+    text-align: center;
+    margin: 10px auto 10px auto;
+    padding:7px;
+    
+   
+}
+#button a {
+    text-decoration: none;
+    color: white;
+}
+body{
+    background: lightgoldenrodyellow;
+    margin: 0;
+}
